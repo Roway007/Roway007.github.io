@@ -1,10 +1,10 @@
 ---
 layout: default
 tagline:
-permalink: about
+permalink: about.html
 ---
 <br><br>
 
 # Biografia Personal
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni expedita, quo officia. Error vel adipisci fugiat molestiae saepe autem in qui, ab, perspiciatis sapiente illo sit dolor velit ipsam quibusdam.
+Soy Roy Alexander Quiñonez Lara, tengo 18 años. Soy de Ecuador. Vivo en Guayaquil. Soy estudiante de la Universidad de Guayaquil. Mi especialidad es Ingeniería de Software. Me gusta cocinar y comer. No me gusta el chocolate. Odio ir a comprar por la mañana. Disfruto pasar tiempo con mi familia y mi mejor amigo. No me importa ver fútbol con mis tíos y primos. Amo los video juegos y viajar.

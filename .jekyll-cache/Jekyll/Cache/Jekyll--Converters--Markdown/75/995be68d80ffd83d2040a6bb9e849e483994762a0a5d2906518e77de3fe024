@@ -1,0 +1,63 @@
+I"C
+<p><strong>Proceso de Ingeniería de software</strong></p>
+
+<p><strong>Factores de calidad del software</strong></p>
+
+<p><strong>Concepto de Calidad</strong>: Conjunto de propiedades y de
+características de un producto o servicio, que le confieren
+aptitud para satisfacer una necesidad explícita o implícita (ISO
+8402).</p>
+
+<p><strong>Calidad del Software</strong>: Es el grado con el que un sistema,
+componente o proceso cumple los requerimientos
+especificados y las necesidades o expectativas del cliente o
+usuario.</p>
+
+<p><strong>Factores que determinan la calidad del soIware.</strong></p>
+
+<p><strong>Se pueden clasificar en dos grandes grupos (Pressman):</strong></p>
+
+<p><strong>Medidas Directas</strong>: La medida o medición decimos que es directa,
+cuando disponemos de un instrumento de medida que nos
+muestra un resultado (generalmente numérico).</p>
+
+<p><strong>Medidas Indirectas</strong>: Cuando hablamos de sistemas informáBcos
+no siempre es posible realizar una medida directa, porque no
+disponemos del instrumento adecuado que nos permita realizar
+esa medición.</p>
+
+<p><strong>Métricas del Software</strong></p>
+
+<p>Son las que están relacionadas con el desarrollo del software
+como funcionalidad, complejidad, eficiencia.</p>
+
+<p><strong>Entre las métricas del software tenemos las siguientes:</strong></p>
+
+<p><strong>-Métricas técnicas</strong>: Se centran en las características del
+software. Aquí medimos la complejidad lógica y el grado de
+modularidad del sistema. Mide la estructura del sistema, el
+cómo está hecho.</p>
+
+<p><strong>-Métricas de calidad</strong>: Son todas las métricas de software que
+definen de una u otra forma la calidad del software; tales como
+corrección, exactitud, integridad, facilidad de uso,
+estructuración o modularidad, pruebas, facilidad de
+mantenimiento, reusabilidad, cohesión del módulo,
+acoplamiento del módulo, etc.</p>
+
+<p>Estas son los puntos críticos en el diseño, codificación, pruebas y
+mantenimiento.</p>
+
+<p><strong>-Corrección</strong>: es el grado en que el software desempeña la
+función para la que fue creado y se mide en defectos por KLDC.</p>
+
+<p><strong>-Facilidad de Mantenimiento</strong>: es la sencillez con que un
+programa puede corregirse si se encuentra un error, al
+adaptarse si su entorno cambio o mejorar si el cliente cambia
+los requisitos y se mide en forma indirecta en TMC (Tiempo
+Medio de Cambio).</p>
+
+<p><strong>-Integridad</strong>: es la habilidad de un sistema para resisBr ataques
+que requiere la definición de amenaza y seguridad y se calcula:
+integridad = 1 – (amenaza * (1 – seguridad)).</p>
+:ET

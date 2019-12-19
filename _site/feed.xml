@@ -7,155 +7,7 @@
 		<atom:link href="/" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Biografia!</title>
-				<description>&lt;p&gt;&lt;strong&gt;Hello!&lt;/strong&gt;
-Soy Roy Alexander Quiñonez Lara, tengo 18 años. Soy de Ecuador. 
-Vivo en Guayaquil. Soy estudiante de la Universidad de Guayaquil. 
-Mi especialidad es Ingeniería de Software. Me gusta cocinar y comer. 
-No me gusta el chocolate. Odio ir a comprar por la mañana.
-Disfruto pasar tiempo con mi familia y mi mejor amigo. 
-No me importa ver fútbol con mis tíos y primos. 
-Amo los video juegos y viajar.&lt;/p&gt;
-
-</description>
-				<pubDate>Fri, 15 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/2013/11/15/hello-world.html</link>
-				<guid isPermaLink="true">/2013/11/15/hello-world.html</guid>
-			</item>
-		
-			<item>
-				<title>Biografia!</title>
-				<description>&lt;p&gt;&lt;strong&gt;Hello!&lt;/strong&gt;
-Soy Roy Alexander Quiñonez Lara, tengo 18 años. Soy de Ecuador. 
-Vivo en Guayaquil. Soy estudiante de la Universidad de Guayaquil. 
-Mi especialidad es Ingeniería de Software. Me gusta cocinar y comer. 
-No me gusta el chocolate. Odio ir a comprar por la mañana.
-Disfruto pasar tiempo con mi familia y mi mejor amigo. 
-No me importa ver fútbol con mis tíos y primos. 
-Amo los video juegos y viajar.&lt;/p&gt;
-
-</description>
-				<pubDate>Fri, 15 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/2013/11/15/hello-world-copia.html</link>
-				<guid isPermaLink="true">/2013/11/15/hello-world-copia.html</guid>
-			</item>
-		
-			<item>
-				<title>Blog</title>
-				<description>&lt;p&gt;&lt;strong&gt;En este semestre he podido diferenciar la utilidad de los bucles While, Do while, For.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;While&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Estos bucles se utilizan cuando queremos repetir la ejecución de unas sentencias un número indefinido de veces, siempre que se cumpla una condición. Se más sencillo de comprender que el bucle FOR, pues no incorpora en la misma línea la inicialización de las variables su condición para seguir ejecutándose y su actualización. Sólo se indica, como veremos a continuación, la condición que se tiene que cumplir para que se realice una iteración.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;while (condición){ 
-   	//sentencias a ejecutar 
-}&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Un ejemplo de código donde se utiliza este bucle se puede ver a continuación.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;var color = “” 
-while (color != “rojo”){ 
-   	color = prompt(“dame un color (escribe rojo para salir)”,””) 
-}&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DoWhile&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;El bucle do…while es la última de las estructuras para implementar repeticiones de las que dispone en Javascript y es una variación del bucle while visto anteriormente. Se utiliza generalmente cuando no sabemos cuantas veces se habrá de ejecutar el bucle, igual que el bucle WHILE, con la diferencia de que sabemos seguro que el bucle por lo menos se ejecutará una vez.&lt;/p&gt;
-
-&lt;p&gt;Este tipo de bucle se introdujo en Javascript 1.2, por lo que no todos los navegadores los soportan, sólo los de versión 4 o superior. En cualquiuer caso, cualquier código que quieras escribir con DO…WHILE se puede escribir también utilizando un bucle WHILE, con lo que en navegadores antiguos deberás traducir tu bucle DO…WHILE por un bucle WHILE.&lt;/p&gt;
-
-&lt;p&gt;La sintaxis es la siguiente:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;do { 
-   	//sentencias del bucle 
-} while (condición)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;El bucle se ejecuta siempre una vez y al final se evalúa la condición para decir si se ejecuta otra vez el bucle o se termina su ejecución.&lt;/p&gt;
-
-&lt;p&gt;Veamos el ejemplo que escribimos para un bucle WHILE en este otro tipo de bucle.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;var color 
-do { 
-   	color = prompt(“dame un color (escribe rojo para salir)”,””) 
-} while (color != “rojo”)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;For&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;El ciclo for es muy importante en programación debido a que es un ciclo que repite un conjunto de instrucciones mientras una condición es verdadera, pero, a diferencia de los ciclos if-else y while, normalmente en el ciclo for tiene aplicación cuando conocemos el número de veces que se repetirá el ciclo.&lt;/p&gt;
-
-&lt;p&gt;Cuando requieras programar integrales, cálculos estadísticos, recorrer matrices, listas, estructuras de datos, la lectura de archivos, incluso el recorrido de directorios, etc, normalmente utilizarás el ciclo for. El ciclo for también es frecuentemente referido como «bucle» for.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;for (Expresión-de-inicio; Condición; incremento)
-{
-	Instrucciones del ciclo.
-}&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Fri, 15 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/2013/11/15/configuration.html</link>
-				<guid isPermaLink="true">/2013/11/15/configuration.html</guid>
-			</item>
-		
-			<item>
-				<title>Blog</title>
-				<description>&lt;p&gt;&lt;strong&gt;En este semestre he podido diferenciar la utilidad de los bucles While, Do while, For.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;While&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Estos bucles se utilizan cuando queremos repetir la ejecución de unas sentencias un número indefinido de veces, siempre que se cumpla una condición. Se más sencillo de comprender que el bucle FOR, pues no incorpora en la misma línea la inicialización de las variables su condición para seguir ejecutándose y su actualización. Sólo se indica, como veremos a continuación, la condición que se tiene que cumplir para que se realice una iteración.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;while (condición){ 
-   	//sentencias a ejecutar 
-}&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Un ejemplo de código donde se utiliza este bucle se puede ver a continuación.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;var color = “” 
-while (color != “rojo”){ 
-   	color = prompt(“dame un color (escribe rojo para salir)”,””) 
-}&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DoWhile&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;El bucle do…while es la última de las estructuras para implementar repeticiones de las que dispone en Javascript y es una variación del bucle while visto anteriormente. Se utiliza generalmente cuando no sabemos cuantas veces se habrá de ejecutar el bucle, igual que el bucle WHILE, con la diferencia de que sabemos seguro que el bucle por lo menos se ejecutará una vez.&lt;/p&gt;
-
-&lt;p&gt;Este tipo de bucle se introdujo en Javascript 1.2, por lo que no todos los navegadores los soportan, sólo los de versión 4 o superior. En cualquiuer caso, cualquier código que quieras escribir con DO…WHILE se puede escribir también utilizando un bucle WHILE, con lo que en navegadores antiguos deberás traducir tu bucle DO…WHILE por un bucle WHILE.&lt;/p&gt;
-
-&lt;p&gt;La sintaxis es la siguiente:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;do { 
-   	//sentencias del bucle 
-} while (condición)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;El bucle se ejecuta siempre una vez y al final se evalúa la condición para decir si se ejecuta otra vez el bucle o se termina su ejecución.&lt;/p&gt;
-
-&lt;p&gt;Veamos el ejemplo que escribimos para un bucle WHILE en este otro tipo de bucle.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;var color 
-do { 
-   	color = prompt(“dame un color (escribe rojo para salir)”,””) 
-} while (color != “rojo”)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;For&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;El ciclo for es muy importante en programación debido a que es un ciclo que repite un conjunto de instrucciones mientras una condición es verdadera, pero, a diferencia de los ciclos if-else y while, normalmente en el ciclo for tiene aplicación cuando conocemos el número de veces que se repetirá el ciclo.&lt;/p&gt;
-
-&lt;p&gt;Cuando requieras programar integrales, cálculos estadísticos, recorrer matrices, listas, estructuras de datos, la lectura de archivos, incluso el recorrido de directorios, etc, normalmente utilizarás el ciclo for. El ciclo for también es frecuentemente referido como «bucle» for.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;for (Expresión-de-inicio; Condición; incremento)
-{
-	Instrucciones del ciclo.
-}&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Fri, 15 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/2013/11/15/configuration-copia.html</link>
-				<guid isPermaLink="true">/2013/11/15/configuration-copia.html</guid>
-			</item>
-		
-			<item>
-				<title>Software Introducctión</title>
+				<title>Fundamentos de la ingenieria de software!</title>
 				<description>&lt;p&gt;&lt;strong&gt;Fundamentos de la Ingenieria de Software&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Definición de IS&lt;/p&gt;
@@ -218,30 +70,15 @@ muchos años, lo cual parece una contradicción para el término.&lt;/p&gt;
 &lt;p&gt;-Lo que si se podría decir es que hay un problema crónico en el
 desarrollo de software.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;El software en la actualidad&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Las direcciones en las que evoluciona la ingeniería del software
-hoy en día pueden agruparse de la siguiente manera:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Metodologías ágiles&lt;/strong&gt;: métodos de desarrollo de software
-basados en procesos iterativos e incrementales, donde los
-requisitos y soluciones evolucionan durante la colaboración.
-Metodologías como Scrum (1995), Extreme Programming
-(1999) o DSDM (1995) fueron evolucionando hasta que en
-Febrero del 2001 se publicó “Manifesto for Agile Software
-Development” para definir la aproximación ahora conocida
-como metodologías ágiles.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Experimentación&lt;/strong&gt;: es una rama de la ingeniería del software
-interesada en realizar experimentos sobre software, recolectar
-datos y deducir leyes y teorías de los mismos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Desarrollo dirigido por modelos&lt;/strong&gt;: primero se desarrollan
-modelos textuales gráficos del software a construir, y
-posteriormente se construye el software.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Líneas de productos software, en lugar de productos
-individuales.&lt;/strong&gt;&lt;/p&gt;
+</description>
+				<pubDate>Thu, 19 Dec 2019 00:00:00 -0500</pubDate>
+				<link>/2019/12/19/Fundamentos-de-la-ingenieria-de-software.html</link>
+				<guid isPermaLink="true">/2019/12/19/Fundamentos-de-la-ingenieria-de-software.html</guid>
+			</item>
+		
+			<item>
+				<title>Proceso de ingenieria de software!</title>
+				<description>&lt;p&gt;&lt;strong&gt;Proceso de Ingeniería de software&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Factores de calidad del software&lt;/strong&gt;&lt;/p&gt;
 
@@ -302,20 +139,17 @@ Medio de Cambio).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;-Integridad&lt;/strong&gt;: es la habilidad de un sistema para resisBr ataques
 que requiere la definición de amenaza y seguridad y se calcula:
 integridad = 1 – (amenaza * (1 – seguridad)).&lt;/p&gt;
+</description>
+				<pubDate>Wed, 18 Dec 2019 00:00:00 -0500</pubDate>
+				<link>/2019/12/18/Proceso-de-ingenieria-de-sowftware.html</link>
+				<guid isPermaLink="true">/2019/12/18/Proceso-de-ingenieria-de-sowftware.html</guid>
+			</item>
+		
+			<item>
+				<title>Procesos de Software</title>
+				<description>&lt;p&gt;&lt;strong&gt;Procesos de Software&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Problemas en el desarrollo de software&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;¿Qué es un proyecto soFware?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;-Haciendo uso de la definición de proyecto de la guía del
-PMBOK, y adaptándola a un proyecto soIware, podríamos
-definirlo como:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;-“Un proyecto soIware es un esfuerzo temporal que se lleva a
-cabo para crear un producto soIware, servicio TI o resultado
-único.”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Proceso Software&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El proceso de SW.&lt;/p&gt;
 
 &lt;p&gt;Un conjunto estructurado de actividades necesarias para
 desarrollar un sistema de software.&lt;/p&gt;
@@ -323,68 +157,84 @@ desarrollar un sistema de software.&lt;/p&gt;
 &lt;p&gt;•Muchos de los procesos de software son diferentes, pero todos
 implican:&lt;/p&gt;
 
-&lt;p&gt;•Especificación
-•Diseño e implementación
-•Validación
-•Evolución&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;•Especificación&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Ciclo de vida del SW(ii)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;•Diseño e implementación&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;-Cuando un proceso implica laconstrucción de algún producto,suele referirse al proceso como un ciclo de vida.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;•Validación&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;-El proceso de desarrollo de software suele denominarse ciclode vidad el software.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;•Evolución&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;-La evolución del software representa el ciclo de actividades involucradas en el desarrollo,uso y mantenimiento de sistemas software[Scacchi,1987].&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ciclo de vida del SW.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;-Los proyectos software se desarrollan en una serie de fases&lt;/p&gt;
+&lt;p&gt;Estas fases pueden ser:&lt;/p&gt;
 
-&lt;p&gt;-Van desde la concepción del software y sudesarrollo inicial hasta su puesta en funcionamiento y posterior retirada por otra nueva generación de software.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Temporales&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Estas fases pueden ser:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Forman una secuencia en el tiempo&lt;/p&gt;
 
-&lt;p&gt;-Temporales&lt;/p&gt;
-
-&lt;p&gt;Forman una secuencia en el tiempo.&lt;/p&gt;
-
-&lt;p&gt;-Lógicas&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lógicas&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Cuando representan pasos o etapas que no constituyen
 una secuencia temporal.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Modelos de procesos de software&lt;/strong&gt;&lt;/p&gt;
+</description>
+				<pubDate>Tue, 17 Dec 2019 00:00:00 -0500</pubDate>
+				<link>/2019/12/17/Procesos-Software.html</link>
+				<guid isPermaLink="true">/2019/12/17/Procesos-Software.html</guid>
+			</item>
+		
+			<item>
+				<title>Modelos de proceso software</title>
+				<description>&lt;p&gt;&lt;strong&gt;Ingeniería de software orientado a reutilización.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;•El modelo de cascada.&lt;/p&gt;
+&lt;p&gt;•Elsistemaseensamblaapartirdecomponentesexistentes.Puedeserelplanimpulsadooágil.&lt;/p&gt;
 
-&lt;p&gt;Modelo de Plan-impulsado.Fases separadas y distintas de especificación y desarrollo.&lt;/p&gt;
+&lt;p&gt;•En la práctica,la mayoría de los grandes sistemas se desarrollan mediante un proceso que incorpora elementos de todos estos modelos.&lt;/p&gt;
 
-&lt;p&gt;•El desarrollo incremental&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ModelodeCascada&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Especificación,desarrollo y validación se intercalan.Puede ser el plan impulsado o ágil.&lt;/p&gt;
+&lt;p&gt;•Las fases están identificadas por separado:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;ProcesosÁgiles&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;•El análisis y definición de requerimientos&lt;/p&gt;
+
+&lt;p&gt;•Diseño del sistema y software.&lt;/p&gt;
+
+&lt;p&gt;•Pruebas de implementación de unidades&lt;/p&gt;
+
+&lt;p&gt;•Integración y pruebas del sistema&lt;/p&gt;
+
+&lt;p&gt;•Operación y mantenimiento&lt;/p&gt;
+
+&lt;p&gt;•Elprincipal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso.En principio,una fase tiene que ser completada antes de pasar a la siguiente
+fase.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Desarrolloincremental&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;•Beneficios:&lt;/p&gt;
+
+&lt;p&gt;•Elcostodeatenderlasnecesidadescambiantesdelosclientessereduce.&lt;/p&gt;
+
+&lt;p&gt;•Lacantidaddeanálisisyladocumentaciónquetienequeserhechodenuevoesmuchomenorquelaqueserequiereconelmodelodecascada.&lt;/p&gt;
+
+&lt;p&gt;•Esmásfácilobtenerretroalimentacióndelosclienteseneltrabajodedesarrolloquesehahecho.&lt;/p&gt;
+
+&lt;p&gt;•Losclientespuedenhacercomentariossobrelasmanifestacionesdelsoftwareyvercuántosehaimplementado&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Espiral&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;•Definición(i):&lt;/p&gt;
 
-&lt;p&gt;•Cualquierprocesodelsoftwareágilsecaracterizaporlaformaenlaqueabordaciertonúmerodesuposicionesclave[Fow02]acerca de la mayoría de proyectos de software:&lt;/p&gt;
+&lt;p&gt;•EsunmodelodeciclodevidadesarrolladoporBarryBoehmen1988.&lt;/p&gt;
 
-&lt;p&gt;1.Es difícil predecir qué requerimientos de software persistirán y cuáles cambiarán.Tambiénes difícil pronosticar cómo cambiarán las prioridades del cliente a medida que avanza el proyecto.&lt;/p&gt;
+&lt;p&gt;•Lasactividadesdeestemodelosonunaespiral,cadabucleesunaactividad.&lt;/p&gt;
 
-&lt;p&gt;2.Para muchos tipos de software,el diseño y la construcción están imbricados.&lt;/p&gt;
+&lt;p&gt;•Lasactividadesnoestánfijadasaprioridad,sinoquelassiguientesseeligenenfuncióndelanálisisderiesgo,comenzandoporelbucleinterior.&lt;/p&gt;
 
-&lt;p&gt;-El análisis, el diseño, la construcción y las pruebas no son tan
-predecibles como nos gustaría (desde un punto de vista de
-planeación)&lt;/p&gt;
-
-&lt;p&gt;-Dadas estas tres suposiciones, surge una pregunta
-importante ¿cómo crear un proceso que pueda manejar lo
-impredecible? La respuesta, como ya se dijo, está en la
-adaptabilidad del proceso (al cambio rápido del proyecto y
-a las condiciones técnicas) Por tanto, un proceso ágil debe
-ser adaptable&lt;/p&gt;
 </description>
-				<pubDate>Thu, 14 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/2013/11/14/sample-2.html</link>
-				<guid isPermaLink="true">/2013/11/14/sample-2.html</guid>
+				<pubDate>Mon, 16 Dec 2019 00:00:00 -0500</pubDate>
+				<link>/2019/12/16/Modelos-de-procesos-Software.html</link>
+				<guid isPermaLink="true">/2019/12/16/Modelos-de-procesos-Software.html</guid>
 			</item>
 		
 	</channel>
