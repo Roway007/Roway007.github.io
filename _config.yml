@@ -34,8 +34,3 @@ BASE_PATH:
 
 plugins:
   - jekyll-paginate
-  ---
-layout: default
-comments: true
-# other options
----
