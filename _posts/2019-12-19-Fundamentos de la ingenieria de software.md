@@ -4,9 +4,11 @@ title: Fundamentos de la ingenieria de software!
 ---
 
 **Fundamentos de la Ingenieria de Software**
----
+
 Definición de IS
-<a href="desayu.html"><img src="Desayunos.jpg" width= "50" heigth="50"></a>
+
+---
+<a href="desayu.html"><img src="Desayunos.jpg" width= "100" heigth="200"></a>
 ---
 
 **Fritz Bauer**, 1969: Más que una disciplina o una parte del
