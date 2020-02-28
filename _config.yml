@@ -1,6 +1,5 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
-<title>El Rinconcito del Sabor</title>
----
+
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
