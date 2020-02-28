@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="desayu.html"><img src="Desayunos.jpg" width= "800" heigth="300">
+title: <a href="#"><img src="Desayunos.jpg" width= "100%" heigth="0%">
 description: !.
 ---
 
