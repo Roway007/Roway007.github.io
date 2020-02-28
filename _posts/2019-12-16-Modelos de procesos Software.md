@@ -4,7 +4,7 @@ title: Modelos de proceso software
 description: !.
 ---
 
-**Ingeniería de software orientado a reutilización.**
+<a href="">**Ingeniería de software orientado a reutilización.**</a>
 
 •Elsistemaseensamblaapartirdecomponentesexistentes.Puedeserelplanimpulsadooágil.
 
