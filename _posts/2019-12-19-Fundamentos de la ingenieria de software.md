@@ -4,9 +4,11 @@ title: Fundamentos de la ingenieria de software!
 ---
 
 **Fundamentos de la Ingenieria de Software**
-
+---
 Definición de IS
-<a href="desayu.html"><img src="Desayunos.jpg" width= "800" heigth="300"></a>
+<a href="desayu.html"><img src="Desayunos.jpg" width= "50" heigth="50"></a>
+---
+
 **Fritz Bauer**, 1969: Más que una disciplina o una parte del
 conocimiento, la Ingeniería es un verbo, una palabra de acción,
 un modo de enfocar el problema.
