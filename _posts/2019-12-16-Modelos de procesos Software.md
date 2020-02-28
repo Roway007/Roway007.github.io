@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Modelos de proceso software
+title: <a href="">Modelos de proceso software</a>
 description: !.
 ---
 
-<a href="">**Ingeniería de software orientado a reutilización.**</a>
+**Ingeniería de software orientado a reutilización.**
 
 •Elsistemaseensamblaapartirdecomponentesexistentes.Puedeserelplanimpulsadooágil.
 
