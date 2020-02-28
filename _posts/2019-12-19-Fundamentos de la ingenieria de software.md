@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="roway007.github.io/_posts/inicio.html">Fundamentos de la ingenieria de software</a>
+title:Fundamentos de la ingenieria de software
 ---
 
 **Fundamentos de la Ingenieria de Software**
