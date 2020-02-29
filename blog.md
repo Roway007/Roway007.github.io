@@ -20,7 +20,7 @@ permalink: blog.html
 <p>-Ofrecer ayuda y consejo al cliente.</p>
 <p>-Tendremos lugares cómodos y placenteros para un mejor servicio.</p>
 
-<br></br>
+<br><br>
 
 <h2>OBJETIVOS GENERALES</h2>
 
@@ -31,7 +31,7 @@ permalink: blog.html
 <p>-Mejorar la presentación de platillos.</p>
 <p>-Incrementar el índice de satisfacción a los clientes.</p>
 <p>-Mantener nuestro entorno adecuado para la buena atención.</p>
-<br></br>
+<br><br>
 <div id="disqus_thread"></div>
 <script>
 
