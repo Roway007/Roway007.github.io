@@ -7,7 +7,7 @@ permalink: blog.html
 
 <h1>Objetivos Generales y Especificos</h1>
 
-<h2>OBJETIVOS ESPECIFICOS<h2>
+<h2>OBJETIVOS ESPECIFICOS</h2>
 
 <p>-Ofrecer la mejor atención a nuestros clientes de forma atenta y confiable.</p>
 <p>-Darle importancia a cada uno de nuestros clientes pues de ellos depende nuestro éxito.</p>
@@ -20,9 +20,9 @@ permalink: blog.html
 <p>-Ofrecer ayuda y consejo al cliente.</p>
 <p>-Tendremos lugares cómodos y placenteros para un mejor servicio.</p>
 
-<br><br>
+<br></br>
 
-<h2>OBJETIVOS GENERALES<h2>
+<h2>OBJETIVOS GENERALES</h2>
 
 <p>-Crear una cultura de calidad y de continuidad además de calidez de estándares de servicio.</p>
 <p>-Conocer los servicios que vendemos y adecuarlos a las necesidades de nuestros clientes.</p>
@@ -31,8 +31,7 @@ permalink: blog.html
 <p>-Mejorar la presentación de platillos.</p>
 <p>-Incrementar el índice de satisfacción a los clientes.</p>
 <p>-Mantener nuestro entorno adecuado para la buena atención.</p>
-
----
+<br></br>
 <div id="disqus_thread"></div>
 <script>
 
