@@ -7,9 +7,11 @@ permalink: about.html
 
 # Informacion
 
-Soy Roy Alexander Quiñonez Lara, tengo 18 años. Soy de Ecuador. Vivo en Guayaquil. Soy estudiante de la Universidad de Guayaquil. Mi especialidad es Ingeniería de Software. Me gusta cocinar y comer. No me gusta el chocolate. Odio ir a comprar por la mañana. Disfruto pasar tiempo con mi familia y mi mejor amigo. No me importa ver fútbol con mis tíos y primos. Amo los video juegos y viajar.
-
 ---
+#PUEDES HACER TUS PEDIDOS A: 
+SR DEYSI: 0939570334  o  DON GEOVANY:0978744103
+---
+
 <main class="main">
 		<div class="container">
 			<ul>
