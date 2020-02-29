@@ -16,8 +16,10 @@ SR DEYSI: 0939570334  o  DON GEOVANY:0978744103
 <div class="social">
 			<a href="https://www.instagram.com/elrinconcitodelsaborjl/" target="_blank">
 				<ion-icon name="logo-instagram"></ion-icon> <span>Seguinos en Instagram!</span>
+			</a>
 			<a href="https://www.facebook.com/elrinconcitodelsabor0/" target="_blank">
 				<ion-icon name="logo-facebook"></ion-icon> <span>Seguinos en Facebook!</span>
+			</a>
 			<a href=""https://wa.me/5930990291804" target="_blank">
 				<ion-icon name="logo-whatsapp"></ion-icon> <span>Escribenos a Whatsapp!</span>
 			</a>
