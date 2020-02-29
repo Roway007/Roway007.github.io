@@ -2,7 +2,169 @@
 layout: default
 tagline:
 ---
+<head>
+	<meta charset="UTF-8">
+	<title>SweetIceCream</title>
+	<link rel="stylesheet" type="text/css" href="stylesheets/style.css?v2">
+	<script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link rel="manifest" href="manifest.json">
+	<script>
+		
+		if ("serviceWorker" in navigator) {
+		  if (navigator.serviceWorker.controller) {
+		    console.log("[PWA Builder] active service worker found, no need to register");
+		  } else {
+		    // Register the service worker
+		    navigator.serviceWorker
+		      .register("pwabuilder-sw.js", {
+		        scope: "./"
+		      })
+		      .then(function (reg) {
+		        console.log("[PWA Builder] Service worker has been registered for scope: " + reg.scope);
+		      });
+		  }
+		}
 
+	</script>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<div class="product">
+					<div class="image">
+						<img src="images/helado1.jpg">
+						<div class="price">$80</div>
+					</div>
+					<h2>1/4 Kg</h2>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Vainilla
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Banana Granizada
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Granizado
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Dulce de leche.
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Crema del cielo
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						ACHILATA papalú!
+					</p>
+					<a href="https://wa.me/543814178380?text=PAPUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU%20QUIERO%20ESE%20HELADO%20DE%20UN%20*1/4*">
+						<ion-icon name="logo-whatsapp"></ion-icon>
+						Pedir 🍨🍧🍦
+					</a>
+				</div>
+			</div> <!---COL--->
+			<div class="col">
+				<div class="product">
+					<div class="image">
+						<img src="images/helado1.jpg">
+						<div class="price">$140</div>
+					</div>
+					<h2>1/2 Kg</h2>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Vainilla
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Banana Granizada
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Granizado
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Dulce de leche.
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Crema del cielo
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						ACHILATA papalú!
+					</p>
+					<a href="https://wa.me/543814178380?text=DAME%20ESOOOOOOOOOOOOOO!!!%20NDEAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH%20RE%20ALTERADO%20ERA%20EL%20UACH@.%20NA%20PERO%20EN%20SERIO%20QUIERO%20ESE%20*1/2*%20😐">
+						<ion-icon name="logo-whatsapp"></ion-icon>
+						Pedir 🍨🍧🍦
+					</a>
+				</div>
+			</div> <!---COL--->
+			<div class="col">
+				<div class="product">
+					<div class="image">
+						<img src="images/helado1.jpg">
+						<div class="price">$240</div>
+					</div>
+					<h2>1 Kg</h2>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Vainilla
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Banana Granizada
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Granizado
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Dulce de leche.
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						Crema del cielo
+					</p>
+					<p>
+						<ion-icon name="ios-ice-cream"></ion-icon>
+						ACHILATA papalú!
+					</p>
+					<a href="https://wa.me/543814178380?text=HOLA%20MONSTRO%20MONSTRITO%20MONSTROSIDAD%20MONSTER%20MONSTERINC%20MASTER%20MASTERCARD%20MAESTRO%20MAESTRULI%20MISTER%20MISTICO%20MAGICCcc%20MAGIC%20 JHONSON%20HERMANO%20HERMANITO%20BROTHER%20PADRE%20PADRASTRO%20PAPUUUUUUUUUUUUUUUU%20*DAME%20ESE%20KILO*">
+						<ion-icon name="logo-whatsapp"></ion-icon>
+						Pedir 🍨🍧🍦
+					</a>
+				</div>
+			</div> <!---COL--->
+		</div> <!---ROW--->
+
+		<div class="social">
+			<a href="https://www.instagram.com/nordec.helados/" target="_blank">
+				<ion-icon name="logo-instagram"></ion-icon> <span>Seguinos en Instagram!</span>
+			</a>
+		</div>
+
+	</div> <!---CONTAINER--->
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35017431-6"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-35017431-6');
+	</script>
+
+</body>
 <div class="page-header">
   <h1><a href="#">El Rinconcito del Sabor</a></h1>
 </div>
