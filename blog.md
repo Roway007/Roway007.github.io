@@ -6,7 +6,7 @@ permalink: blog.html
 <br><br>
 
 <h1>Objetivos Generales y Especificos</h1>
-
+<br><br>
 <h2>OBJETIVOS ESPECIFICOS</h2>
 
 <p>-Ofrecer la mejor atención a nuestros clientes de forma atenta y confiable.</p>
