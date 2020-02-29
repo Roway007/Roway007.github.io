@@ -219,7 +219,7 @@ header .text a:hover{
 	background: #f31f64;
 }
 .social a ion-icon, .social a span{
-	horizontal-align: middle;
+	horizontal-align: center;
 }
 
 @media screen and (max-width: 742px){
