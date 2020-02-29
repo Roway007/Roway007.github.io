@@ -22,7 +22,7 @@ SR DEYSI: 0939570334  o  DON GEOVANY:0978744103
 				<ion-icon name="logo-whatsapp"></ion-icon> <span>Escribenos a Whatsapp!</span>
 			</a>
 		</div>
----
+							      
 <main class="main">
 		<div class="container">
 			<ul>
@@ -52,5 +52,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
----
                             
