@@ -15,8 +15,8 @@ permalink: about.html
 <h3>CONTACTO DIRECTO<h3>
 
 <div class="social">
-    	<a href="https://www.instagram.com/elrinconcitodelsaborjl/" target="_blank"></a></div>
-<ion-icon name="logo-instagram"></ion-icon> <span>Seguinos en Instagram!</span>
+    	<a href="https://www.instagram.com/elrinconcitodelsaborjl/" target="_blank">
+<ion-icon name="logo-instagram"></ion-icon> <span>Seguinos en Instagram!</span></a></div>
 
 <div class="social">
 	<a href="https://www.facebook.com/elrinconcitodelsabor0/" target="_blank">
