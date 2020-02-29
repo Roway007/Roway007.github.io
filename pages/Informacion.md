@@ -7,11 +7,22 @@ permalink: about.html
 
 # Informacion
 
----
+
 #PUEDES HACER TUS PEDIDOS A: 
 SR DEYSI: 0939570334  o  DON GEOVANY:0978744103
----
 
+#CONTACTO DIRECTO
+
+<div class="social">
+			<a href="https://www.instagram.com/elrinconcitodelsaborjl/" target="_blank">
+				<ion-icon name="logo-instagram"></ion-icon> <span>Seguinos en Instagram!</span>
+			<a href="https://www.facebook.com/elrinconcitodelsabor0/" target="_blank">
+				<ion-icon name="logo-facebook"></ion-icon> <span>Seguinos en Facebook!</span>
+			<a href=""https://wa.me/5930990291804" target="_blank">
+				<ion-icon name="logo-whatsapp"></ion-icon> <span>Escribenos a Whatsapp!</span>
+			</a>
+		</div>
+---
 <main class="main">
 		<div class="container">
 			<ul>
@@ -20,7 +31,6 @@ SR DEYSI: 0939570334  o  DON GEOVANY:0978744103
 		</ul>
 		</div>
 	</main>
----
 
 <div id="disqus_thread"></div>
 <script>
@@ -42,4 +52,5 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+---
                             
