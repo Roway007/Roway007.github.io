@@ -23,7 +23,7 @@ permalink: about.html
 				<i class="fa fa-facebook"></i> <span>Siguenos en Facebook!</span></a></div>
 <div class="social">
 	<a href="https://wa.me/5930990291804" target="_blank">
-		                <icon-icon name="logo-whatsapp"></icon-icon> <span>Escribenos a Whatsapp!</span></a></div>
+		                <i class="fa fa-whatsapp"></i> <span>Escribenos a Whatsapp!</span></a></div>
 							      
 							      <br><br>
 							      
