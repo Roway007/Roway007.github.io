@@ -16,14 +16,14 @@ permalink: about.html
 
 <div class="social">
     	<a href="https://www.instagram.com/elrinconcitodelsaborjl/" target="_blank">
-<i class="fa fa-instagram"></i> <span>Seguinos en Instagram!</span></a></div>
+				<i class="fa fa-instagram"></i> <span>Siguenos en Instagram!</span></a></div>
 
 <div class="social">
 	<a href="https://www.facebook.com/elrinconcitodelsabor0/" target="_blank">
-				<i class="fa fa-facebook"></i><span>Seguinos en Facebook!</span></a></div>
+				<i class="fa fa-facebook"></i> <span>Siguenos en Facebook!</span></a></div>
 <div class="social">
-	<a href=""https://wa.me/5930990291804" target="_blank">Escribemos a Whatsapp!
-		             <i class="fa fa-whatsapp"></i></a></div>
+	<a href="https://wa.me/5930990291804" target="_blank">
+		                <i class="fa fa-whatsapp"></i> <span>Escribenos a Whatsapp!</span></a></div>
 							      
 							      <br><br>
 							      
